@@ -32,5 +32,13 @@
     "crypto-arbitrage",
     "defi",
     "x402"
+  ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "glama.json",
+    "smithery.yaml",
+    "server.json"
   ]
 }
