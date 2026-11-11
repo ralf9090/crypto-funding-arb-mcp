@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ralf9090/crypto-funding-arb-mcp",
-  "title": "Hyperliquid & dYdX perpetual funding rate arbitrage APR scanner, DeFi yield finder & ",
-  "description": "Hyperliquid & dYdX perpetual funding rate arbitrage APR scanner, DeFi yield finder & TradFi macro radar MCP server (Zero-config stdio & Remote HTTP).",
+  "title": "Crypto Perp Funding Arbitrage Radar MCP",
+  "description": "Hyperliquid, Binance & Bybit perpetual funding rate arbitrage & DeFi APY yield scanner MCP.",
   "version": "1.0.0",
   "websiteUrl": "https://agent-kiosk.vercel.app/buy",
   "repository": {
